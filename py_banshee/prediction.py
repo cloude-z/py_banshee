@@ -344,7 +344,7 @@ def make_dist(distributions, parameters):
                 scipy.stats.genexpon,
                 scipy.stats.genextreme, scipy.stats.gausshyper, scipy.stats.gamma, scipy.stats.gengamma,
                 scipy.stats.genhalflogistic,
-                scipy.stats.geninvgauss, scipy.stats.gilbrat, scipy.stats.gompertz, scipy.stats.gumbel_r,
+                scipy.stats.geninvgauss, scipy.stats.gibrat, scipy.stats.gompertz, scipy.stats.gumbel_r,
                 scipy.stats.gumbel_l,
                 scipy.stats.halfcauchy, scipy.stats.halflogistic, scipy.stats.halfnorm, scipy.stats.halfgennorm,
                 scipy.stats.hypsecant, scipy.stats.invgamma, scipy.stats.invgauss, scipy.stats.invweibull,
